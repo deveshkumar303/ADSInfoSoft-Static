@@ -1,12 +1,4 @@
 
-/* 
- * Always set the map height explicitly to define the size of the div element
- * that contains the map. 
- */
-/*#gMap {
-    height: 100%;
-}
-*/
 .slide-container {
     --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
@@ -22,7 +14,7 @@
 }
 
 .adsinfo-slide2 {
-    background-image: url("../../assets/img/ADSImages/DA_Slide2.png");
+    background-image: url("../assets/img/ADSImages/DA_Slide2.png");
     background-position: center;
     background-repeat: no-repeat;
 }
