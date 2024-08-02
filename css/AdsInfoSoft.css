@@ -16,21 +16,19 @@
 }
 
 .adsinfo-slide1 {
-    background-image: url('~/assets/img/adsimages/Capture.PNG');
-    /*background-image: url('../assets/img/adsimages/cc1.png');*/
-    /* background-image: url('../assets/img/adsimages/CloudComputing.png');*/
+	background-image: url("../assets/img/ADSImages/Capture.PNG");
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .adsinfo-slide2 {
-    background-image: url('/assets/img/adsimages/DA_Slide2.png');
+    background-image: url("../../assets/img/ADSImages/DA_Slide2.png");
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .adsinfo-slide3 {
-    background-image: url('assets/img/adsimages/Art_Int.jpg');
+    background-image: url("../assets/img/ADSImages/Art_Int.jpg");
     background-position: center;
     background-repeat: no-repeat;
 }
